@@ -1,0 +1,40 @@
+*{
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+}
+
+.wrapper{
+    width: 100%;
+    height: 100vh;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    gap: 30px;
+}
+
+input{
+    width: 260px;
+    height: 40px;
+    text-transform: capitalize;
+    padding-left: 12px;
+    outline: none;
+}
+
+button{
+    width: 120px;
+    height: 40px;
+    font-size: 15px;
+    text-transform: capitalize;
+    background-color: #0d49a9;   
+    color: #fff;
+    border: none;
+    border-radius: 16px;
+    cursor: pointer;
+}
+
+
+
+
+
+
